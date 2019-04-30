@@ -1,0 +1,11 @@
+F:\ZCY\code\csharp\CSharpInDeep\DiInCore\bin\Debug\netcoreapp2.1\DiInCore.deps.json
+F:\ZCY\code\csharp\CSharpInDeep\DiInCore\bin\Debug\netcoreapp2.1\DiInCore.runtimeconfig.json
+F:\ZCY\code\csharp\CSharpInDeep\DiInCore\bin\Debug\netcoreapp2.1\DiInCore.runtimeconfig.dev.json
+F:\ZCY\code\csharp\CSharpInDeep\DiInCore\bin\Debug\netcoreapp2.1\DiInCore.dll
+F:\ZCY\code\csharp\CSharpInDeep\DiInCore\obj\Debug\netcoreapp2.1\DiInCore.csproj.CoreCompileInputs.cache
+F:\ZCY\code\csharp\CSharpInDeep\DiInCore\obj\Debug\netcoreapp2.1\DiInCore.AssemblyInfoInputs.cache
+F:\ZCY\code\csharp\CSharpInDeep\DiInCore\obj\Debug\netcoreapp2.1\DiInCore.AssemblyInfo.cs
+F:\ZCY\code\csharp\CSharpInDeep\DiInCore\bin\Debug\netcoreapp2.1\DiInCore.pdb
+F:\ZCY\code\csharp\CSharpInDeep\DiInCore\obj\Debug\netcoreapp2.1\DiInCore.csprojAssemblyReference.cache
+F:\ZCY\code\csharp\CSharpInDeep\DiInCore\obj\Debug\netcoreapp2.1\DiInCore.dll
+F:\ZCY\code\csharp\CSharpInDeep\DiInCore\obj\Debug\netcoreapp2.1\DiInCore.pdb

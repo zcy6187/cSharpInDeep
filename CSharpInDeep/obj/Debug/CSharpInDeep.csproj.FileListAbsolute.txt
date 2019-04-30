@@ -1,0 +1,8 @@
+F:\临时代码\csharp临时代码\CSharpInDeep\CSharpInDeep\bin\Debug\CSharpInDeep.exe
+F:\临时代码\csharp临时代码\CSharpInDeep\CSharpInDeep\bin\Debug\CSharpInDeep.pdb
+F:\临时代码\csharp临时代码\CSharpInDeep\CSharpInDeep\obj\Debug\CSharpInDeep.csprojResolveAssemblyReference.cache
+F:\临时代码\csharp临时代码\CSharpInDeep\CSharpInDeep\obj\Debug\CSharpInDeep.MainForm.resources
+F:\临时代码\csharp临时代码\CSharpInDeep\CSharpInDeep\obj\Debug\CSharpInDeep.Properties.Resources.resources
+F:\临时代码\csharp临时代码\CSharpInDeep\CSharpInDeep\obj\Debug\CSharpInDeep.csproj.GenerateResource.Cache
+F:\临时代码\csharp临时代码\CSharpInDeep\CSharpInDeep\obj\Debug\CSharpInDeep.exe
+F:\临时代码\csharp临时代码\CSharpInDeep\CSharpInDeep\obj\Debug\CSharpInDeep.pdb

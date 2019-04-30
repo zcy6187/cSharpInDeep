@@ -1,0 +1,9 @@
+F:\csharp临时代码\CSharpInDeep\EncodingAndTransfer\bin\Debug\EncodingAndTransfer.exe
+F:\csharp临时代码\CSharpInDeep\EncodingAndTransfer\bin\Debug\EncodingAndTransfer.pdb
+F:\csharp临时代码\CSharpInDeep\EncodingAndTransfer\obj\Debug\EncodingAndTransfer.csprojResolveAssemblyReference.cache
+F:\csharp临时代码\CSharpInDeep\EncodingAndTransfer\obj\Debug\EncodingAndTransfer.exe
+F:\csharp临时代码\CSharpInDeep\EncodingAndTransfer\obj\Debug\EncodingAndTransfer.pdb
+F:\临时代码\csharp临时代码\CSharpInDeep\EncodingAndTransfer\bin\Debug\EncodingAndTransfer.exe
+F:\临时代码\csharp临时代码\CSharpInDeep\EncodingAndTransfer\bin\Debug\EncodingAndTransfer.pdb
+F:\临时代码\csharp临时代码\CSharpInDeep\EncodingAndTransfer\obj\Debug\EncodingAndTransfer.exe
+F:\临时代码\csharp临时代码\CSharpInDeep\EncodingAndTransfer\obj\Debug\EncodingAndTransfer.pdb

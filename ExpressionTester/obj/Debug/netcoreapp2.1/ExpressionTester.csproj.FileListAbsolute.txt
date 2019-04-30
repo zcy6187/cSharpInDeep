@@ -1,0 +1,11 @@
+F:\ZCY\code\csharp\CSharpInDeep\ExpressionTester\bin\Debug\netcoreapp2.1\ExpressionTester.deps.json
+F:\ZCY\code\csharp\CSharpInDeep\ExpressionTester\bin\Debug\netcoreapp2.1\ExpressionTester.runtimeconfig.json
+F:\ZCY\code\csharp\CSharpInDeep\ExpressionTester\bin\Debug\netcoreapp2.1\ExpressionTester.runtimeconfig.dev.json
+F:\ZCY\code\csharp\CSharpInDeep\ExpressionTester\bin\Debug\netcoreapp2.1\ExpressionTester.dll
+F:\ZCY\code\csharp\CSharpInDeep\ExpressionTester\bin\Debug\netcoreapp2.1\ExpressionTester.pdb
+F:\ZCY\code\csharp\CSharpInDeep\ExpressionTester\obj\Debug\netcoreapp2.1\ExpressionTester.csprojAssemblyReference.cache
+F:\ZCY\code\csharp\CSharpInDeep\ExpressionTester\obj\Debug\netcoreapp2.1\ExpressionTester.csproj.CoreCompileInputs.cache
+F:\ZCY\code\csharp\CSharpInDeep\ExpressionTester\obj\Debug\netcoreapp2.1\ExpressionTester.AssemblyInfoInputs.cache
+F:\ZCY\code\csharp\CSharpInDeep\ExpressionTester\obj\Debug\netcoreapp2.1\ExpressionTester.AssemblyInfo.cs
+F:\ZCY\code\csharp\CSharpInDeep\ExpressionTester\obj\Debug\netcoreapp2.1\ExpressionTester.dll
+F:\ZCY\code\csharp\CSharpInDeep\ExpressionTester\obj\Debug\netcoreapp2.1\ExpressionTester.pdb

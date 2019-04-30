@@ -1,0 +1,11 @@
+F:\ZCY\code\csharp\CSharpInDeep\ReflectionAndAttribute\bin\Debug\netcoreapp2.1\ReflectionAndAttribute.deps.json
+F:\ZCY\code\csharp\CSharpInDeep\ReflectionAndAttribute\bin\Debug\netcoreapp2.1\ReflectionAndAttribute.runtimeconfig.json
+F:\ZCY\code\csharp\CSharpInDeep\ReflectionAndAttribute\bin\Debug\netcoreapp2.1\ReflectionAndAttribute.runtimeconfig.dev.json
+F:\ZCY\code\csharp\CSharpInDeep\ReflectionAndAttribute\bin\Debug\netcoreapp2.1\ReflectionAndAttribute.dll
+F:\ZCY\code\csharp\CSharpInDeep\ReflectionAndAttribute\bin\Debug\netcoreapp2.1\ReflectionAndAttribute.pdb
+F:\ZCY\code\csharp\CSharpInDeep\ReflectionAndAttribute\obj\Debug\netcoreapp2.1\ReflectionAndAttribute.csproj.CoreCompileInputs.cache
+F:\ZCY\code\csharp\CSharpInDeep\ReflectionAndAttribute\obj\Debug\netcoreapp2.1\ReflectionAndAttribute.AssemblyInfoInputs.cache
+F:\ZCY\code\csharp\CSharpInDeep\ReflectionAndAttribute\obj\Debug\netcoreapp2.1\ReflectionAndAttribute.AssemblyInfo.cs
+F:\ZCY\code\csharp\CSharpInDeep\ReflectionAndAttribute\obj\Debug\netcoreapp2.1\ReflectionAndAttribute.dll
+F:\ZCY\code\csharp\CSharpInDeep\ReflectionAndAttribute\obj\Debug\netcoreapp2.1\ReflectionAndAttribute.pdb
+F:\ZCY\code\csharp\CSharpInDeep\ReflectionAndAttribute\obj\Debug\netcoreapp2.1\ReflectionAndAttribute.csprojAssemblyReference.cache

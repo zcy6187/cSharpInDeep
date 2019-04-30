@@ -1,0 +1,11 @@
+F:\ZCY\code\csharp\CSharpInDeep\Delegation\bin\Debug\netcoreapp2.1\Delegation.deps.json
+F:\ZCY\code\csharp\CSharpInDeep\Delegation\bin\Debug\netcoreapp2.1\Delegation.runtimeconfig.json
+F:\ZCY\code\csharp\CSharpInDeep\Delegation\bin\Debug\netcoreapp2.1\Delegation.runtimeconfig.dev.json
+F:\ZCY\code\csharp\CSharpInDeep\Delegation\bin\Debug\netcoreapp2.1\Delegation.dll
+F:\ZCY\code\csharp\CSharpInDeep\Delegation\bin\Debug\netcoreapp2.1\Delegation.pdb
+F:\ZCY\code\csharp\CSharpInDeep\Delegation\obj\Debug\netcoreapp2.1\Delegation.csprojAssemblyReference.cache
+F:\ZCY\code\csharp\CSharpInDeep\Delegation\obj\Debug\netcoreapp2.1\Delegation.csproj.CoreCompileInputs.cache
+F:\ZCY\code\csharp\CSharpInDeep\Delegation\obj\Debug\netcoreapp2.1\Delegation.AssemblyInfoInputs.cache
+F:\ZCY\code\csharp\CSharpInDeep\Delegation\obj\Debug\netcoreapp2.1\Delegation.AssemblyInfo.cs
+F:\ZCY\code\csharp\CSharpInDeep\Delegation\obj\Debug\netcoreapp2.1\Delegation.dll
+F:\ZCY\code\csharp\CSharpInDeep\Delegation\obj\Debug\netcoreapp2.1\Delegation.pdb

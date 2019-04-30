@@ -1,0 +1,9 @@
+F:\csharp临时代码\CSharpInDeep\AsyncSocketServer\obj\Debug\AsyncSocketServer.csprojResolveAssemblyReference.cache
+F:\csharp临时代码\CSharpInDeep\AsyncSocketServer\bin\Debug\AsyncSocketServer.exe
+F:\csharp临时代码\CSharpInDeep\AsyncSocketServer\bin\Debug\AsyncSocketServer.pdb
+F:\csharp临时代码\CSharpInDeep\AsyncSocketServer\obj\Debug\AsyncSocketServer.exe
+F:\csharp临时代码\CSharpInDeep\AsyncSocketServer\obj\Debug\AsyncSocketServer.pdb
+F:\临时代码\csharp临时代码\CSharpInDeep\AsyncSocketServer\bin\Debug\AsyncSocketServer.exe
+F:\临时代码\csharp临时代码\CSharpInDeep\AsyncSocketServer\bin\Debug\AsyncSocketServer.pdb
+F:\临时代码\csharp临时代码\CSharpInDeep\AsyncSocketServer\obj\Debug\AsyncSocketServer.exe
+F:\临时代码\csharp临时代码\CSharpInDeep\AsyncSocketServer\obj\Debug\AsyncSocketServer.pdb

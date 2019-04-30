@@ -1,0 +1,15 @@
+F:\csharp临时代码\CSharpInDeep\CsharpConsole\bin\Debug\CsharpConsole.exe
+F:\csharp临时代码\CSharpInDeep\CsharpConsole\bin\Debug\CsharpConsole.pdb
+F:\csharp临时代码\CSharpInDeep\CsharpConsole\obj\Debug\CsharpConsole.csprojResolveAssemblyReference.cache
+F:\csharp临时代码\CSharpInDeep\CsharpConsole\obj\Debug\CsharpConsole.exe
+F:\csharp临时代码\CSharpInDeep\CsharpConsole\obj\Debug\CsharpConsole.pdb
+F:\临时代码\csharp临时代码\CSharpInDeep\CsharpConsole\bin\Debug\CsharpConsole.exe
+F:\临时代码\csharp临时代码\CSharpInDeep\CsharpConsole\bin\Debug\CsharpConsole.pdb
+F:\临时代码\csharp临时代码\CSharpInDeep\CsharpConsole\obj\Debug\CsharpConsole.exe
+F:\临时代码\csharp临时代码\CSharpInDeep\CsharpConsole\obj\Debug\CsharpConsole.pdb
+F:\ZCY\code\csharp\CSharpInDeep\CsharpConsole\bin\Debug\CsharpConsole.exe
+F:\ZCY\code\csharp\CSharpInDeep\CsharpConsole\bin\Debug\CsharpConsole.pdb
+F:\ZCY\code\csharp\CSharpInDeep\CsharpConsole\obj\Debug\CsharpConsole.csprojAssemblyReference.cache
+F:\ZCY\code\csharp\CSharpInDeep\CsharpConsole\obj\Debug\CsharpConsole.csproj.CoreCompileInputs.cache
+F:\ZCY\code\csharp\CSharpInDeep\CsharpConsole\obj\Debug\CsharpConsole.exe
+F:\ZCY\code\csharp\CSharpInDeep\CsharpConsole\obj\Debug\CsharpConsole.pdb

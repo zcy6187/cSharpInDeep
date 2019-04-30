@@ -1,0 +1,11 @@
+F:\ZcyCode\csharp\CSharpInDeep\RegularExp\bin\Debug\netcoreapp2.1\RegularExp.deps.json
+F:\ZcyCode\csharp\CSharpInDeep\RegularExp\bin\Debug\netcoreapp2.1\RegularExp.runtimeconfig.json
+F:\ZcyCode\csharp\CSharpInDeep\RegularExp\bin\Debug\netcoreapp2.1\RegularExp.runtimeconfig.dev.json
+F:\ZcyCode\csharp\CSharpInDeep\RegularExp\bin\Debug\netcoreapp2.1\RegularExp.dll
+F:\ZcyCode\csharp\CSharpInDeep\RegularExp\bin\Debug\netcoreapp2.1\RegularExp.pdb
+F:\ZcyCode\csharp\CSharpInDeep\RegularExp\obj\Debug\netcoreapp2.1\RegularExp.csproj.CoreCompileInputs.cache
+F:\ZcyCode\csharp\CSharpInDeep\RegularExp\obj\Debug\netcoreapp2.1\RegularExp.AssemblyInfoInputs.cache
+F:\ZcyCode\csharp\CSharpInDeep\RegularExp\obj\Debug\netcoreapp2.1\RegularExp.AssemblyInfo.cs
+F:\ZcyCode\csharp\CSharpInDeep\RegularExp\obj\Debug\netcoreapp2.1\RegularExp.dll
+F:\ZcyCode\csharp\CSharpInDeep\RegularExp\obj\Debug\netcoreapp2.1\RegularExp.pdb
+F:\ZcyCode\csharp\CSharpInDeep\RegularExp\obj\Debug\netcoreapp2.1\RegularExp.csprojAssemblyReference.cache

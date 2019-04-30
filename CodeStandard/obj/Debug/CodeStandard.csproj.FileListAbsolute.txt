@@ -1,0 +1,6 @@
+F:\csharp临时代码\CSharpInDeep\CodeStandard\obj\Debug\CodeStandard.csprojResolveAssemblyReference.cache
+F:\临时代码\csharp临时代码\CSharpInDeep\CodeStandard\bin\Debug\CodeStandard.exe.config
+F:\临时代码\csharp临时代码\CSharpInDeep\CodeStandard\bin\Debug\CodeStandard.exe
+F:\临时代码\csharp临时代码\CSharpInDeep\CodeStandard\bin\Debug\CodeStandard.pdb
+F:\临时代码\csharp临时代码\CSharpInDeep\CodeStandard\obj\Debug\CodeStandard.exe
+F:\临时代码\csharp临时代码\CSharpInDeep\CodeStandard\obj\Debug\CodeStandard.pdb

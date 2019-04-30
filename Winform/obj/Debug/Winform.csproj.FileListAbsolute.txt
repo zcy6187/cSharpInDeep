@@ -1,0 +1,6 @@
+F:\临时代码\csharp临时代码\CSharpInDeep\Winform\bin\Debug\Winform.exe
+F:\临时代码\csharp临时代码\CSharpInDeep\Winform\bin\Debug\Winform.pdb
+F:\临时代码\csharp临时代码\CSharpInDeep\Winform\obj\Debug\Winform.Properties.Resources.resources
+F:\临时代码\csharp临时代码\CSharpInDeep\Winform\obj\Debug\Winform.csproj.GenerateResource.Cache
+F:\临时代码\csharp临时代码\CSharpInDeep\Winform\obj\Debug\Winform.exe
+F:\临时代码\csharp临时代码\CSharpInDeep\Winform\obj\Debug\Winform.pdb

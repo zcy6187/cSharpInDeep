@@ -1,0 +1,11 @@
+F:\ZCY\code\csharp\CSharpInDeep\BasicDataTypeConvertAndParser\bin\Debug\netcoreapp2.1\BasicDataTypeConvertAndParser.deps.json
+F:\ZCY\code\csharp\CSharpInDeep\BasicDataTypeConvertAndParser\bin\Debug\netcoreapp2.1\BasicDataTypeConvertAndParser.runtimeconfig.json
+F:\ZCY\code\csharp\CSharpInDeep\BasicDataTypeConvertAndParser\bin\Debug\netcoreapp2.1\BasicDataTypeConvertAndParser.runtimeconfig.dev.json
+F:\ZCY\code\csharp\CSharpInDeep\BasicDataTypeConvertAndParser\bin\Debug\netcoreapp2.1\BasicDataTypeConvertAndParser.dll
+F:\ZCY\code\csharp\CSharpInDeep\BasicDataTypeConvertAndParser\bin\Debug\netcoreapp2.1\BasicDataTypeConvertAndParser.pdb
+F:\ZCY\code\csharp\CSharpInDeep\BasicDataTypeConvertAndParser\obj\Debug\netcoreapp2.1\BasicDataTypeConvertAndParser.csprojAssemblyReference.cache
+F:\ZCY\code\csharp\CSharpInDeep\BasicDataTypeConvertAndParser\obj\Debug\netcoreapp2.1\BasicDataTypeConvertAndParser.csproj.CoreCompileInputs.cache
+F:\ZCY\code\csharp\CSharpInDeep\BasicDataTypeConvertAndParser\obj\Debug\netcoreapp2.1\BasicDataTypeConvertAndParser.AssemblyInfoInputs.cache
+F:\ZCY\code\csharp\CSharpInDeep\BasicDataTypeConvertAndParser\obj\Debug\netcoreapp2.1\BasicDataTypeConvertAndParser.AssemblyInfo.cs
+F:\ZCY\code\csharp\CSharpInDeep\BasicDataTypeConvertAndParser\obj\Debug\netcoreapp2.1\BasicDataTypeConvertAndParser.dll
+F:\ZCY\code\csharp\CSharpInDeep\BasicDataTypeConvertAndParser\obj\Debug\netcoreapp2.1\BasicDataTypeConvertAndParser.pdb

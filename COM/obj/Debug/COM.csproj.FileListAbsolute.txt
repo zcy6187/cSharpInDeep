@@ -1,0 +1,12 @@
+F:\csharp临时代码\CSharpInDeep\COM\bin\Debug\COM.exe.config
+F:\csharp临时代码\CSharpInDeep\COM\bin\Debug\COM.exe
+F:\csharp临时代码\CSharpInDeep\COM\bin\Debug\COM.pdb
+F:\csharp临时代码\CSharpInDeep\COM\obj\Debug\COM.csprojResolveAssemblyReference.cache
+F:\csharp临时代码\CSharpInDeep\COM\obj\Debug\COM.exe
+F:\csharp临时代码\CSharpInDeep\COM\obj\Debug\COM.pdb
+F:\临时代码\csharp临时代码\CSharpInDeep\COM\bin\Debug\COM.exe.config
+F:\临时代码\csharp临时代码\CSharpInDeep\COM\bin\Debug\COM.exe
+F:\临时代码\csharp临时代码\CSharpInDeep\COM\bin\Debug\COM.pdb
+F:\临时代码\csharp临时代码\CSharpInDeep\COM\obj\Debug\COM.csprojResolveAssemblyReference.cache
+F:\临时代码\csharp临时代码\CSharpInDeep\COM\obj\Debug\COM.exe
+F:\临时代码\csharp临时代码\CSharpInDeep\COM\obj\Debug\COM.pdb

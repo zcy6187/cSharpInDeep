@@ -1,0 +1,8 @@
+F:\临时代码\csharp临时代码\CSharpInDeep\AppConfigOper\bin\Debug\AppConfigOper.exe.config
+F:\临时代码\csharp临时代码\CSharpInDeep\AppConfigOper\bin\Debug\AppConfigOper.exe
+F:\临时代码\csharp临时代码\CSharpInDeep\AppConfigOper\bin\Debug\AppConfigOper.pdb
+F:\临时代码\csharp临时代码\CSharpInDeep\AppConfigOper\obj\Debug\AppConfigOper.exe
+F:\临时代码\csharp临时代码\CSharpInDeep\AppConfigOper\obj\Debug\AppConfigOper.pdb
+F:\CodeSummary\CSharpInDeep\AppConfigOper\bin\Debug\AppConfigOper.exe.config
+F:\CodeSummary\CSharpInDeep\AppConfigOper\obj\Debug\AppConfigOper.exe
+F:\CodeSummary\CSharpInDeep\AppConfigOper\obj\Debug\AppConfigOper.pdb

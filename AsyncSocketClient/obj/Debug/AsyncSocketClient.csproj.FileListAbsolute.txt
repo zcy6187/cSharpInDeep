@@ -1,0 +1,8 @@
+F:\csharp临时代码\CSharpInDeep\AsyncSocketClient\bin\Debug\AsyncSocketClient.exe
+F:\csharp临时代码\CSharpInDeep\AsyncSocketClient\bin\Debug\AsyncSocketClient.pdb
+F:\csharp临时代码\CSharpInDeep\AsyncSocketClient\obj\Debug\AsyncSocketClient.exe
+F:\csharp临时代码\CSharpInDeep\AsyncSocketClient\obj\Debug\AsyncSocketClient.pdb
+F:\临时代码\csharp临时代码\CSharpInDeep\AsyncSocketClient\bin\Debug\AsyncSocketClient.exe
+F:\临时代码\csharp临时代码\CSharpInDeep\AsyncSocketClient\bin\Debug\AsyncSocketClient.pdb
+F:\临时代码\csharp临时代码\CSharpInDeep\AsyncSocketClient\obj\Debug\AsyncSocketClient.exe
+F:\临时代码\csharp临时代码\CSharpInDeep\AsyncSocketClient\obj\Debug\AsyncSocketClient.pdb

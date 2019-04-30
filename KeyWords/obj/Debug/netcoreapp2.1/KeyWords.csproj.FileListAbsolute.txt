@@ -1,0 +1,11 @@
+F:\ZCY\code\csharp\CSharpInDeep\KeyWords\bin\Debug\netcoreapp2.1\KeyWords.deps.json
+F:\ZCY\code\csharp\CSharpInDeep\KeyWords\bin\Debug\netcoreapp2.1\KeyWords.runtimeconfig.json
+F:\ZCY\code\csharp\CSharpInDeep\KeyWords\bin\Debug\netcoreapp2.1\KeyWords.runtimeconfig.dev.json
+F:\ZCY\code\csharp\CSharpInDeep\KeyWords\bin\Debug\netcoreapp2.1\KeyWords.dll
+F:\ZCY\code\csharp\CSharpInDeep\KeyWords\bin\Debug\netcoreapp2.1\KeyWords.pdb
+F:\ZCY\code\csharp\CSharpInDeep\KeyWords\obj\Debug\netcoreapp2.1\KeyWords.csproj.CoreCompileInputs.cache
+F:\ZCY\code\csharp\CSharpInDeep\KeyWords\obj\Debug\netcoreapp2.1\KeyWords.AssemblyInfoInputs.cache
+F:\ZCY\code\csharp\CSharpInDeep\KeyWords\obj\Debug\netcoreapp2.1\KeyWords.AssemblyInfo.cs
+F:\ZCY\code\csharp\CSharpInDeep\KeyWords\obj\Debug\netcoreapp2.1\KeyWords.dll
+F:\ZCY\code\csharp\CSharpInDeep\KeyWords\obj\Debug\netcoreapp2.1\KeyWords.pdb
+F:\ZCY\code\csharp\CSharpInDeep\KeyWords\obj\Debug\netcoreapp2.1\KeyWords.csprojAssemblyReference.cache
